@@ -1,6 +1,6 @@
 # Programming-Search-Algorithms
 
-Artificial Intelligence
+Artificial Intelligence Project
 
 ## Description
 
